@@ -28,7 +28,7 @@ TEST_CASE("bool compare test", "[misc]") {
 TEST_CASE("bool to int implicit conversion test", "[misc]") {
   const bool v1 = true, v2 = false, v3 = true;
 
-  REQUIRE(v1 + v2 == 1);
+  REQUIRE(v1 + v2 == 2);
   REQUIRE(2 * v1 == 2);
   REQUIRE(v1 + v3 == 2);
 }

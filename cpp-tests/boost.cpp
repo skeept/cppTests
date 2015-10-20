@@ -1,5 +1,5 @@
 #include "catch.hpp"
-#include <boost/icl/interval.hpp>
+//#include <boost/icl/interval.hpp>
 #include <boost/icl/interval_set.hpp>
 #include <boost/icl/separate_interval_set.hpp>
 #include <boost/optional.hpp>
