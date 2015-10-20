@@ -55,3 +55,9 @@ project.xcworkspace/
 *.xccheckout
 *.moved-aside
 *.xcuserstate
+
+# Visual studio Files
+Tests.opensdf
+Tests.sdf
+x64/
+
